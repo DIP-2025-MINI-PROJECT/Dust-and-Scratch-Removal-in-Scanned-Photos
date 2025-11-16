@@ -28,8 +28,7 @@ This project restores old scanned photographs by removing dust, scratches, and c
 ---
 
 ## Dataset
-Scanned old photographs (user-provided).  
-No external dataset required.
+Scanned old photographs from google  
 
 ---
 
